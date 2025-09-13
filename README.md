@@ -8,7 +8,7 @@
 
 I'm a passionate Backend Developer with over 5 years of experience designing and scaling server-side applications. I specialize in building secure, high-performance systems that drive business growth and solve real-world problems through technology.
 
-- 🔭 **Currently working at:** Sterling Tech and Data Sciences (Backend Developer)
+##- 🔭 **Currently working at:** Sterling Tech and Data Sciences (Backend Developer)
 - 🎵 **Recently led:** SongDis - A SaaS music distribution platform
 - 💡 **Passionate about:** Clean, maintainable code and performance optimization
 - 🌱 **Learning:** Always exploring new technologies and best practices
